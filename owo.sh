@@ -128,7 +128,7 @@ TOPICS=("Marriage"
         "Love"
         "Uses for WD-40"
         "Roman Cuisine"
-        "CIS: Miami"
+        "CSI: Miami"
         "The Hundred Years' War")
 
 # And get our answer (variabilized for error handling)
